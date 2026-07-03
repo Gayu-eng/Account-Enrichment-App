@@ -1,8 +1,0 @@
-streamlit
-pandas
-requests
-google-search-results
-langchain-openai
-langchain-community
-faiss-cpu
-openpyxl
