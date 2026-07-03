@@ -1,0 +1,10 @@
+streamlit
+pandas
+google-search-results
+langchain-openai
+langchain-community
+faiss-cpu
+langchain
+langchain-core
+xlsxwriter
+requests
